@@ -1,6 +1,6 @@
 # POIN Off-Sales (POS Sederhana)
 
-Aplikasi kasir (Point of Sale) sederhana berbasis Java Swing. Dibuat untuk Praktikum PBO Week 11 (Graphical User Interface), Politeknik Negeri Bandung.
+Aplikasi kasir (Point of Sale) sederhana berbasis Java Swing. Dibuat untuk Praktikum PBO Week 11 (Graphical User Interface).
 
 | | |
 |---|---|
